@@ -1,0 +1,35 @@
+main {
+  margin-top: 3rem;
+  height: 80vh;
+}
+
+.textHome{
+  margin-top: 15rem;
+  font-size: 3rem;
+  text-align: center;
+}
+
+body {
+  background-color: black;
+  color: white;
+}
+
+.nav_bar{
+  background-color: white;
+  height: 10px;
+  width: 5px;
+}
+.Sign{
+  text-align: right;
+  margin-top: 100px;
+  width: 200px;
+  font-size: 1.5rem;
+}
+.Log{
+    margin-top: 100px;
+    width: 200px;
+    font-size: 1.5rem;
+}
+.Sign-Log{
+  margin-left: 1100px;
+}
